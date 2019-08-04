@@ -103,5 +103,5 @@ Team members can collaborate offline with the leader for the submissions but nee
 Evaluation criteria
 
 
-# Screenshots
-<img src="https://github.com/Chiragasourabh/Sangam-2019---ML-Hackathon-by-IITMAA/blob/master/Screenshot.png" alt="Screenshot1" height="500" style="float:right"/>
+# Submission Score
+<img src="https://github.com/Chiragasourabh/Sangam-2019---ML-Hackathon-by-IITMAA/blob/master/Screenshot.png" alt="Screenshot1" height="900" style="float:right"/>
